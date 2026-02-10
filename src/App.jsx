@@ -15,6 +15,8 @@ import PrivateRoute from './components/common/PrivateRoute';
 import AdminRoute from './components/common/AdminRoute';
 
 // Pages
+
+
 import Home from './pages/Home';
 import Login from './components/auth/Login';
 import Register from './components/auth/Register';
